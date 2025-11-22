@@ -8,4 +8,4 @@ thumbnail: "assets/images/seal2.jpg"
 
 i really like seals, theyre so bobocas :3 <- they got this face
 
-![silly seal](pequenogatobestinha.github.io\assets\images\seal.jpg)
+![silly seal](https://github.com/pequenogatobestinha/pequenogatobestinha.github.io/blob/main/assets/images/seal.jpg?raw=true)
