@@ -8,4 +8,4 @@ thumbnail: "assets/images/seal2.jpg"
 
 i really like seals, theyre so bobocas :3 <- they got this face
 
-![silly seal](assets/images/seal.jpg)
+![silly seal](./seal.jpg)
