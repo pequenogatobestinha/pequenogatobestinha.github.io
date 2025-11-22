@@ -6,7 +6,7 @@
 
 ## Asking for support!
 
-Hello everyone, If you have used this theme and if it has helped you in any way or if you just want to support me for my open source work, you can support me by donating any amount.
+Hallo everyone, If you have used this theme and if it has helped you in any way or if you just want to support me for my open source work, you can support me by donating any amount.
 
 You can use the sponsor button at the top or on the right. 
 
@@ -32,17 +32,3 @@ You can use the sponsor button at the top or on the right.
 
 * Don't touch `categories.js` inside `assets/js` folder unless you know what you're doing, it is used for generating links for the particular category pill you click on.
 * **Avoid having spaces in category name** because they break the category posts modal's code. You can use underscore instead of them.
-
-# Screenshots
-
-## PC BLOG PAGE
-
-![Blog page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-material-you/main/screenshots/pc_blog.png)
-
-## CATEGORIES MODAL
-
-![Categories modal](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-material-you/main/screenshots/cat_modal.png)
-
-## PC POST EXAMPLE
-
-![Post page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-material-you/main/screenshots/pc_post.png)
