@@ -1,7 +1,11 @@
 name: lili
 dp: /assets/images/1782256581169.jpg
 
-description: "17, student & artist"
+description: |
+  <p>
+    17, student & artist
+  </p>
+  <br/>
 
 contact:
   - title: instagram
